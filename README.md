@@ -2,16 +2,15 @@
 
 # Hi, I'm Ahmad Raza 👋
 
-### MERN Stack Software Engineer · UX Designer
+### Frontend Developer · AI Automation
 
 I'm passionate about building **scalable web applications**, **beautiful user interfaces**, and creating **impactful digital experiences**.
 
-<a href="https://m.anaslatif.com"><img src="https://img.shields.io/badge/Portfolio-m.anaslatif.com-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/manaslatif"><img src="https://img.shields.io/badge/LinkedIn-manaslatif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/MAnasLatif"><img src="https://img.shields.io/badge/X-@MAnasLatif-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://instagram.com/m.anaslatif"><img src="https://img.shields.io/badge/Instagram-m.anaslatif-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://wa.me/YOUR_NUMBER_WITH_COUNTRY_CODE"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://razaahmad.tech"><img src="https://img.shields.io/badge/Portfolio-Ahmad Raza-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/ahmad-raza-864375363/"><img src="https://img.shields.io/badge/LinkedIn-AhmadRaza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/raza.ahmad_09/"><img src="https://img.shields.io/badge/Instagram-raza.ahmad_09-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:razaahmadzafar.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://wa.me/+923016710621"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
 </div>
 
