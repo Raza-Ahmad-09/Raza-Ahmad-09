@@ -21,7 +21,7 @@ I'm passionate about building **scalable web applications**, **beautiful user in
 - 🔭 Currently working on **MERN & Next.js** projects
 - 🎨 Strong focus on **User Experience & Interface Design**
 - 🌱 Always learning and experimenting with **new technologies**
-- 💬 Ask me about **React, Next.js, Node.js, MongoDB, Tailwind CSS**
+- 💬 Ask me about **React, Next.js, Postgres, Prisma, Tailwind CSS**
 - ⚡ Fun fact: I love solving **real-world problems with code**
 
 ---
