@@ -49,30 +49,27 @@ _Repositories load after the first workflow run._
 ## 🛠️ Tech Stack
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,sass,py,cpp,go" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,py,cpp" alt="Languages" />
 
 **Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,mui" alt="Frontend" /><br/>
 <sub>Also: shadcn/ui · Radix UI · Chakra UI · Ant Design · Headless UI · Hero UI · Framer Motion</sub>
 
-**Mobile & Desktop**<br/>
-<img src="https://skillicons.dev/icons?i=react,expo,electron" alt="Mobile and Desktop" />
-
 **Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,mongodb,postgres,redis,socketio" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=graphql,prisma,postgres,redis," alt="Backend" />
 
 **Tooling & Testing**<br/>
-<img src="https://skillicons.dev/icons?i=vite,npm,pnpm,eslint,prettier,postman,jest,vitest,mocha,cypress,playwright" alt="Tooling and Testing" /><br/>
+<img src="https://skillicons.dev/icons?i=vite,npm,pnpm,eslint,prettier,postman,playwright" alt="Tooling and Testing" /><br/>
 <sub>Also: TurboRepo · Chai</sub>
 
 **DevOps & CI/CD**<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,jenkins" alt="DevOps" />
+<img src="https://skillicons.dev/icons?i=docker" alt="DevOps" />
 
 **Cloud & Hosting**<br/>
-<img src="https://skillicons.dev/icons?i=vercel,aws,azure,gcp,digitalocean,linode" alt="Cloud" />
+<img src="https://skillicons.dev/icons?i=vercel,azure,gcp,digitalocean,Oracle" alt="Cloud" />
 
 **Design & Prototyping**<br/>
-<img src="https://skillicons.dev/icons?i=figma,xd,sketch" alt="Design" /><br/>
+<img src="https://skillicons.dev/icons?i=figma,stitch" alt="Design" /><br/>
 <sub>Also: Canva</sub>
 
 ---
@@ -81,6 +78,5 @@ _Repositories load after the first workflow run._
 
 ⭐ _"Code is like art — every line should have purpose and elegance."_
 
-<sub>Dynamic sections above are refreshed automatically by an <a href="https://n8n.io">n8n</a> workflow.</sub>
 
 </div>
