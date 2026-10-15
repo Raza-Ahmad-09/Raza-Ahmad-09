@@ -29,19 +29,26 @@ I'm passionate about building **scalable web applications**, **beautiful user in
 ## 📊 Live Stats
 
 <!--START_SECTION:stats-->
-_Stats load after the first workflow run._
+| 🔥 Contributions (12 mo) | 💻 Commits | 🔀 Pull Requests | 🐛 Issues | 👀 Reviews | 🔒 Private |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **201** | 192 | 0 | 0 | 0 | 0 |
+
+<sub>Auto-updated on 2026-10-15 by n8n</sub>
 <!--END_SECTION:stats-->
 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-_Recent activity loads after the first workflow run._
+- `2026-10-11` — ⬆️ Pushed to `main` in [agenttesting-93/portfolio_ai](https://github.com/agenttesting-93/portfolio_ai)
 <!--END_SECTION:activity-->
 
 ## 🚀 Latest Public Repositories
 
 <!--START_SECTION:repos-->
-_Repositories load after the first workflow run._
+- 📦 [**Raza-Ahmad-09**](https://github.com/Raza-Ahmad-09/Raza-Ahmad-09) _(pushed 2026-10-11)_
+- 📦 [**python**](https://github.com/Raza-Ahmad-09/python) · `Python` _(pushed 2026-04-30)_
+- 📦 [**Tip-Calculator**](https://github.com/Raza-Ahmad-09/Tip-Calculator) · `HTML` _(pushed 2025-12-24)_
+- 📦 [**My30Projects**](https://github.com/Raza-Ahmad-09/My30Projects) · `CSS` _(pushed 2025-11-13)_
 <!--END_SECTION:repos-->
 
 ---
